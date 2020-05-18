@@ -7,7 +7,7 @@
     android:background="@drawable/gcg__tab_view_border__black"
     android:orientation="vertical">
 
-    <com.flywheelms.library.fms.widget.spinner.FmmNounWidgetSpinner
+    <com.flywheelms.fms_library.fms.widget.spinner.FmmNounWidgetSpinner
         android:id="@+id/noun__spinner"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

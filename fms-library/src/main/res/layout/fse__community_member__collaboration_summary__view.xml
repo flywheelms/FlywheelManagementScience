@@ -150,7 +150,7 @@
             tools:ignore="UselessParent" >
 
             <!-- inflates fse__community_member_participation__table_view for each row -->
-            <com.flywheelms.library.fse.views.FseCommunityMemberParticipationTableView
+            <com.flywheelms.fms_library.fse.views.FseCommunityMemberParticipationTableView
                 android:id="@+id/fse__community_member_participation__table_view"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

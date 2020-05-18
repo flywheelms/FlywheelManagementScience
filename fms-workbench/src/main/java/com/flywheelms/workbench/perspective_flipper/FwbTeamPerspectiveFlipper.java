@@ -50,7 +50,7 @@ import com.flywheelms.gcongui.gcg.activity.GcgActivity;
 import com.flywheelms.gcongui.gcg.menu.GcgFrameSpinner;
 import com.flywheelms.gcongui.gcg.viewflipper.GcgPerspectiveFlipper;
 import com.flywheelms.gcongui.gcg.viewflipper.GcgViewFlipperListener;
-import com.flywheelms.library.fmm.context.FmmFrame;
+import com.flywheelms.fms_library.fmm.context.FmmFrame;
 import com.flywheelms.fms_workbench.R;
 import com.flywheelms.workbench.perspective.FwbTeamsFlywheelPerspective;
 import com.flywheelms.workbench.perspective.FwbTeamsFunctionalPerspective;

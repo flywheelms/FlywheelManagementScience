@@ -88,7 +88,7 @@
                 android:gravity="center_horizontal"
                 android:orientation="vertical" >
 
-                <com.flywheelms.library.fms.widget.text_view.FiscalYearWidgetTextView
+                <com.flywheelms.fms_library.fms.widget.text_view.FiscalYearWidgetTextView
                     android:id="@+id/fiscal_year__text_view"
                     android:layout_width="500dp"
                     android:layout_height="wrap_content"
@@ -115,7 +115,7 @@
                 gcg:headingText="Cadence Parameters"
                 gcg:headingGravity="left" >
 
-                <com.flywheelms.library.fms.widget.spinner.CadenceDurationWidgetSpinner
+                <com.flywheelms.fms_library.fms.widget.spinner.CadenceDurationWidgetSpinner
                     android:id="@+id/cadence_duration__spinner"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -124,7 +124,7 @@
                     android:layout_marginBottom="5dp"
                     gcg:labelWidth="230" />
 
-                <com.flywheelms.library.fms.widget.spinner.WorkPlanFirstDayOfWeekWidgetSpinner
+                <com.flywheelms.fms_library.fms.widget.spinner.WorkPlanFirstDayOfWeekWidgetSpinner
                     android:id="@+id/work_plan__first_day_of_week__spinner"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

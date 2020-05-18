@@ -22,7 +22,7 @@
 
         <include layout="@layout/gcg__filter_panel" />
 
-        <com.flywheelms.library.fms.widget.spinner.WorkTaskWidgetSpinner
+        <com.flywheelms.fms_library.fms.widget.spinner.WorkTaskWidgetSpinner
             android:id="@+id/adoption_candidate__spinner"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -31,7 +31,7 @@
             gcg:zoomable="true"
             gcg:labelWidth="155" />
 
-        <com.flywheelms.library.fms.widget.spinner.SequencePositionWidgetSpinner
+        <com.flywheelms.fms_library.fms.widget.spinner.SequencePositionWidgetSpinner
             android:id="@+id/list_position__spinner"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

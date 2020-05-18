@@ -15,21 +15,21 @@
         android:paddingLeft="25dp"
         android:paddingRight="15dp" >
 
-        <com.flywheelms.library.fms.widget.text_view.FmmNodeIdWidgetTextView
+        <com.flywheelms.fms_library.fms.widget.text_view.FmmNodeIdWidgetTextView
             android:id="@+id/fmm_node_id"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="5dp"
             gcg:labelWidth="200" />
 
-        <com.flywheelms.library.fms.widget.text_view.FmmNodeTypeWidgetTextView
+        <com.flywheelms.fms_library.fms.widget.text_view.FmmNodeTypeWidgetTextView
             android:id="@+id/fmm_node__type"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="5dp"
             gcg:labelWidth="200" />
 
-        <com.flywheelms.library.fms.widget.text_view.HeadlineWidgetTextView
+        <com.flywheelms.fms_library.fms.widget.text_view.HeadlineWidgetTextView
             android:id="@+id/headline__original"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -38,7 +38,7 @@
             gcg:labelHint="Original"
             gcg:enableCopyButton="true" />
 
-        <com.flywheelms.library.fms.widget.edit_text.HeadlineWidgetEditText
+        <com.flywheelms.fms_library.fms.widget.edit_text.HeadlineWidgetEditText
             android:id="@+id/headline__new"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

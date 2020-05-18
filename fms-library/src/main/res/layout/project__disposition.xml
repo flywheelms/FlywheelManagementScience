@@ -45,7 +45,7 @@
             android:layout_height="wrap_content" />
     </RadioGroup>
 
-    <com.flywheelms.library.fms.widget.spinner.PortfolioWidgetSpinner
+    <com.flywheelms.fms_library.fms.widget.spinner.PortfolioWidgetSpinner
         android:id="@+id/disposition_target__spinner"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

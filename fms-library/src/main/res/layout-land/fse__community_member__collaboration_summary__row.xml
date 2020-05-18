@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.flywheelms.library.fse.views.FseCommunityMemberParticipationRowView
+<com.flywheelms.fms_library.fse.views.FseCommunityMemberParticipationRowView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
@@ -199,4 +199,4 @@
 	<include
 	    layout="@layout/fms__list_item_divider" />
 
-</com.flywheelms.library.fse.views.FseCommunityMemberParticipationRowView>
+</com.flywheelms.fms_library.fse.views.FseCommunityMemberParticipationRowView>

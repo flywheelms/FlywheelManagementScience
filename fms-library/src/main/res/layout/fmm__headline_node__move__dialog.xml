@@ -15,14 +15,14 @@
         android:paddingLeft="25dp"
         android:paddingRight="15dp" >
 
-        <com.flywheelms.library.fms.widget.text_view.FmmNodeTypeWidgetTextView
+        <com.flywheelms.fms_library.fms.widget.text_view.FmmNodeTypeWidgetTextView
             android:id="@+id/fmm_node__type"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="5dp"
             gcg:labelWidth="150" />
 
-        <com.flywheelms.library.fms.widget.text_view.HeadlineWidgetTextView
+        <com.flywheelms.fms_library.fms.widget.text_view.HeadlineWidgetTextView
             android:id="@+id/headline"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

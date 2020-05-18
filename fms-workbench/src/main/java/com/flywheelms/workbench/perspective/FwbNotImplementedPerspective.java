@@ -52,7 +52,7 @@ import android.widget.PopupMenu.OnMenuItemClickListener;
 
 import com.flywheelms.gcongui.gcg.treeview.GcgTreeViewAdapter;
 import com.flywheelms.gcongui.gcg.treeview.GcgTreeViewMediator;
-import com.flywheelms.library.fms.tree_view_flipper.tree_view.FmsPerspectiveFlipperTreeView;
+import com.flywheelms.fms_library.fms.tree_view_flipper.tree_view.FmsPerspectiveFlipperTreeView;
 
 public abstract class FwbNotImplementedPerspective extends FmsPerspectiveFlipperTreeView {
 

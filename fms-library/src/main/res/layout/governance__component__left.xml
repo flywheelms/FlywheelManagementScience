@@ -63,7 +63,7 @@
             android:contentDescription="@string/gcg__configuration_wrench" />
     </RelativeLayout>
 
-    <com.flywheelms.library.fms.widget.spinner.GovernanceTeamMemberWidgetSpinner
+    <com.flywheelms.fms_library.fms.widget.spinner.GovernanceTeamMemberWidgetSpinner
         android:id="@+id/governance__community_member__spinner"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -72,7 +72,7 @@
         gcg:governanceRole="Facilitator"
         gcg:labelWidth="135" />
 
-    <com.flywheelms.library.fms.widget.spinner.AssignmentCommitmentTypeWidgetSpinner
+    <com.flywheelms.fms_library.fms.widget.spinner.AssignmentCommitmentTypeWidgetSpinner
         android:id="@+id/governance__commitment__spinner"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

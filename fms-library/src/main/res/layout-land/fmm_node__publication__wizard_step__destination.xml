@@ -247,7 +247,7 @@
                         android:paddingLeft="2dp"
                         android:paddingTop="8dp" >
 
-                        <com.flywheelms.library.fms.widget.list_view.CommunityMemberWidgetListView
+                        <com.flywheelms.fms_library.fms.widget.list_view.CommunityMemberWidgetListView
                             android:id="@+id/community_members__widget"
                             android:layout_width="255dp"
                             android:layout_height="173dp"

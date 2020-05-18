@@ -60,7 +60,7 @@
         android:layout_height="0dp"
         android:layout_weight="1.0" >
 
-        <com.flywheelms.library.fms.widget.text_view.FiscalYearWidgetTextView
+        <com.flywheelms.fms_library.fms.widget.text_view.FiscalYearWidgetTextView
             android:id="@+id/fiscal_year__text_view"
             android:layout_width="200dp"
             android:layout_height="wrap_content"

@@ -34,7 +34,7 @@
         </activity>
 
         <activity
-            android:name="com.flywheelms.library.fms.activity.DecKanGlGlyphDictionaryActivity"
+            android:name="com.flywheelms.fms_library.fms.activity.DecKanGlGlyphDictionaryActivity"
             android:label="@string/deckangl_tm__glyph_dictionary"
             android:icon="@drawable/fms_activity__deckangl_dictionary"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan"
@@ -44,7 +44,7 @@
         </activity>
 
         <activity
-            android:name="com.flywheelms.library.fms.activity.CreateFmmWizard"
+            android:name="com.flywheelms.fms_library.fms.activity.CreateFmmWizard"
             android:label="@string/wizard_activity__create__fmm_repository"
             android:icon="@drawable/fmm_repository"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan"
@@ -53,7 +53,7 @@
             tools:ignore="LockedOrientationActivity" />
 
         <activity
-            android:name="com.flywheelms.library.fms.activity.FiscalYearEditorActivity"
+            android:name="com.flywheelms.fms_library.fms.activity.FiscalYearEditorActivity"
             android:label="@string/editor_activity__fiscal_year"
             android:icon="@drawable/fms_activity__fiscal_year"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan"
@@ -62,7 +62,7 @@
             tools:ignore="LockedOrientationActivity" />
 
         <activity
-            android:name="com.flywheelms.library.fms.activity.CreateAllCadenceForYearWizard"
+            android:name="com.flywheelms.fms_library.fms.activity.CreateAllCadenceForYearWizard"
             android:label="@string/create__all_cadence_for_year__wizard"
             android:icon="@drawable/fms_activity__cadence"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan"
@@ -71,7 +71,7 @@
             tools:ignore="LockedOrientationActivity" />
 
         <activity
-            android:name="com.flywheelms.library.fms.activity.StrategicMilestoneEditorActivity"
+            android:name="com.flywheelms.fms_library.fms.activity.StrategicMilestoneEditorActivity"
             android:label="@string/editor_activity__strategic_milestone"
             android:icon="@drawable/fms_activity__strategic_milestone"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan"
@@ -80,7 +80,7 @@
             tools:ignore="LockedOrientationActivity" />
 
         <activity
-            android:name="com.flywheelms.library.fms.activity.CadenceEditorActivity"
+            android:name="com.flywheelms.fms_library.fms.activity.CadenceEditorActivity"
             android:label="@string/editor_activity__flywheel_cadence"
             android:icon="@drawable/fms_activity__cadence"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan"
@@ -89,7 +89,7 @@
             tools:ignore="LockedOrientationActivity" />
 
         <activity
-            android:name="com.flywheelms.library.fms.activity.WorkAssetEditorActivity"
+            android:name="com.flywheelms.fms_library.fms.activity.WorkAssetEditorActivity"
             android:label="@string/editor_activity__work_asset"
             android:icon="@drawable/fms_activity__work_asset"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan"
@@ -98,7 +98,7 @@
             tools:ignore="LockedOrientationActivity" />
 
         <activity
-            android:name="com.flywheelms.library.fms.activity.ProjectAssetEditorActivity"
+            android:name="com.flywheelms.fms_library.fms.activity.ProjectAssetEditorActivity"
             android:label="@string/editor_activity__project_asset"
             android:icon="@drawable/fms_activity__project_asset"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan"
@@ -107,7 +107,7 @@
             tools:ignore="LockedOrientationActivity" />
 
         <activity
-            android:name="com.flywheelms.library.fms.activity.StrategicAssetEditorActivity"
+            android:name="com.flywheelms.fms_library.fms.activity.StrategicAssetEditorActivity"
             android:label="@string/editor_activity__strategic_asset"
             android:icon="@drawable/fms_activity__strategic_asset"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan"
@@ -116,7 +116,7 @@
             tools:ignore="LockedOrientationActivity" />
 
         <activity
-            android:name="com.flywheelms.library.fms.activity.WorkPackageEditorActivity"
+            android:name="com.flywheelms.fms_library.fms.activity.WorkPackageEditorActivity"
             android:label="@string/editor_activity__work_package"
             android:icon="@drawable/fms_activity__work_package"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan"
@@ -125,7 +125,7 @@
             tools:ignore="LockedOrientationActivity" />
 
         <activity
-            android:name="com.flywheelms.library.fms.activity.WorkPlanEditorActivity"
+            android:name="com.flywheelms.fms_library.fms.activity.WorkPlanEditorActivity"
             android:label="@string/editor_activity__work_plan"
             android:icon="@drawable/fms_activity__work_plan"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan"
@@ -134,7 +134,7 @@
             tools:ignore="LockedOrientationActivity" />
 
         <activity
-            android:name="com.flywheelms.library.fms.activity.WorkTaskEditorActivity"
+            android:name="com.flywheelms.fms_library.fms.activity.WorkTaskEditorActivity"
             android:label="@string/editor_activity__work_task"
             android:icon="@drawable/fms_activity__work_task"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan"
@@ -143,7 +143,7 @@
             tools:ignore="LockedOrientationActivity" />
 
         <activity
-            android:name="com.flywheelms.library.fms.activity.PortfolioEditorActivity"
+            android:name="com.flywheelms.fms_library.fms.activity.PortfolioEditorActivity"
             android:label="@string/editor_activity__portfolio"
             android:icon="@drawable/fms_activity__portfolio"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan"
@@ -152,7 +152,7 @@
             tools:ignore="LockedOrientationActivity" />
 
         <activity
-            android:name="com.flywheelms.library.fms.activity.ProjectEditorActivity"
+            android:name="com.flywheelms.fms_library.fms.activity.ProjectEditorActivity"
             android:label="@string/editor_activity__project"
             android:icon="@drawable/fms_activity__project"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan"
@@ -161,7 +161,7 @@
             tools:ignore="LockedOrientationActivity" />
 
         <activity
-            android:name="com.flywheelms.library.fms.activity.PdfPublicationWizard"
+            android:name="com.flywheelms.fms_library.fms.activity.PdfPublicationWizard"
             android:label="@string/wizard_activity__publish_pdf"
             android:icon="@drawable/pdf_publication"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan"
@@ -170,7 +170,7 @@
             tools:ignore="LockedOrientationActivity" />
 
         <activity
-            android:name="com.flywheelms.library.fms.activity.CommunityMemberPickerActivity"
+            android:name="com.flywheelms.fms_library.fms.activity.CommunityMemberPickerActivity"
             android:label="@string/picker_activity__community_member"
             android:icon="@drawable/community_member__unknown"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan"
@@ -179,7 +179,7 @@
             tools:ignore="LockedOrientationActivity" />
 
         <activity
-            android:name="com.flywheelms.library.fms.activity.CommunityMemberEditorActivity"
+            android:name="com.flywheelms.fms_library.fms.activity.CommunityMemberEditorActivity"
             android:label="@string/editor_activity__community_member"
             android:icon="@drawable/community_member__32"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan"
@@ -188,7 +188,7 @@
             tools:ignore="LockedOrientationActivity" />
 
         <activity
-            android:name="com.flywheelms.library.fse.activity.FseDocumentHistoryBrowserActivity"
+            android:name="com.flywheelms.fms_library.fse.activity.FseDocumentHistoryBrowserActivity"
             android:label="@string/browser_activity__fse_history"
             android:icon="@drawable/fse__document_history"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan"
@@ -197,7 +197,7 @@
             tools:ignore="LockedOrientationActivity" />
 
         <activity
-            android:name="com.flywheelms.library.fms.activity.BookshelfEditorActivity"
+            android:name="com.flywheelms.fms_library.fms.activity.BookshelfEditorActivity"
             android:label="@string/editor_activity__bookshelf"
             android:icon="@drawable/fms_activity__bookshelf"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan"

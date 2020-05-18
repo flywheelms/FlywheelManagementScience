@@ -6,19 +6,19 @@
     android:gravity="center_horizontal"
     android:orientation="vertical" >
 
-    <com.flywheelms.library.fms.widget.text_view.FmmNodeTypeWidgetTextView
+    <com.flywheelms.fms_library.fms.widget.text_view.FmmNodeTypeWidgetTextView
         android:id="@+id/fmm_node__type"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         gcg:labelWidth="180" />
 
-    <com.flywheelms.library.fms.widget.text_view.HeadlineWidgetTextView
+    <com.flywheelms.fms_library.fms.widget.text_view.HeadlineWidgetTextView
         android:id="@+id/headline"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         gcg:labelWidth="180" />
 
-    <com.flywheelms.library.fms.widget.text_view.TargetDateWidgetTextView
+    <com.flywheelms.fms_library.fms.widget.text_view.TargetDateWidgetTextView
         android:id="@+id/original_target_date"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

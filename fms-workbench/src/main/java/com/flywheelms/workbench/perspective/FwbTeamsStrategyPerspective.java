@@ -53,16 +53,16 @@ import com.flywheelms.gcongui.gcg.interfaces.GcgPerspective;
 import com.flywheelms.gcongui.gcg.treeview.GcgTreeViewAdapter;
 import com.flywheelms.gcongui.gcg.treeview.GcgTreeViewMediator;
 import com.flywheelms.fms_library.R;
-import com.flywheelms.library.fmm.context.FmmPerspective;
-import com.flywheelms.library.fms.helper.FmsHelpIndex;
-import com.flywheelms.library.fms.popup_menu.FmmPopupBuilder;
-import com.flywheelms.library.fms.preferences.GuiPreferencesBundle;
-import com.flywheelms.library.fms.tree_view_flipper.tree_view.FmsPerspectiveFlipperTreeView;
-import com.flywheelms.library.fms.treeview.FmsTreeNodeStateBundle;
-import com.flywheelms.library.fms.treeview.FmsTreeViewMediatorMemoryResident;
-import com.flywheelms.library.fms.treeview.filter.FmsTreeViewAdapter;
-import com.flywheelms.library.fms.treeview.filter.TeamsTreeFilter;
-import com.flywheelms.library.fwb.treeview.treebuilder.FmsTreeBuilder;
+import com.flywheelms.fms_library.fmm.context.FmmPerspective;
+import com.flywheelms.fms_library.fms.helper.FmsHelpIndex;
+import com.flywheelms.fms_library.fms.popup_menu.FmmPopupBuilder;
+import com.flywheelms.fms_library.fms.preferences.GuiPreferencesBundle;
+import com.flywheelms.fms_library.fms.tree_view_flipper.tree_view.FmsPerspectiveFlipperTreeView;
+import com.flywheelms.fms_library.fms.treeview.FmsTreeNodeStateBundle;
+import com.flywheelms.fms_library.fms.treeview.FmsTreeViewMediatorMemoryResident;
+import com.flywheelms.fms_library.fms.treeview.filter.FmsTreeViewAdapter;
+import com.flywheelms.fms_library.fms.treeview.filter.TeamsTreeFilter;
+import com.flywheelms.fms_library.fwb.treeview.treebuilder.FmsTreeBuilder;
 
 public class FwbTeamsStrategyPerspective extends FmsPerspectiveFlipperTreeView {
 	

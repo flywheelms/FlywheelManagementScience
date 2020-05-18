@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.flywheelms.library.fse.views.FseParagraphViewWithTextContent
+<com.flywheelms.fms_library.fse.views.FseParagraphViewWithTextContent
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
@@ -36,7 +36,7 @@
         android:background="@color/pdf__transparent"
         android:contentDescription="Style Modification State" />
     
-	<com.flywheelms.library.fse.widget.FseParagraphSpinner
+	<com.flywheelms.fms_library.fse.widget.FseParagraphSpinner
 	    xmlns:android="http://schemas.android.com/apk/res/android"
 	    android:layout_width="@dimen/fse__paragraph_menu__spinner__width2"
 		android:layout_height="match_parent"
@@ -44,7 +44,7 @@
 		android:gravity="right"
 		android:paddingRight="7dp" />
     
-	<com.flywheelms.library.fse.views.FseParagraphContentTextView
+	<com.flywheelms.fms_library.fse.views.FseParagraphContentTextView
 	    xmlns:android="http://schemas.android.com/apk/res/android"
 	    android:layout_width="match_parent"
 		android:layout_height="wrap_content"
@@ -52,4 +52,4 @@
 		android:textColor="@color/fse__document_text"
 		android:textCursorDrawable="@drawable/gcg__cursor" />
 
-</com.flywheelms.library.fse.views.FseParagraphViewWithTextContent>
+</com.flywheelms.fms_library.fse.views.FseParagraphViewWithTextContent>

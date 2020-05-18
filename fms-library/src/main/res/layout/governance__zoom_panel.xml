@@ -23,20 +23,20 @@
         android:textSize="22sp"
         android:text="@string/fmm_perspective__governance" />
 
-    <com.flywheelms.library.fms.widget.text_view.SponsorWidgetTextView
+    <com.flywheelms.fms_library.fms.widget.text_view.SponsorWidgetTextView
         android:id="@+id/sponsor"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         gcg:labelWidth="80" />
 
-    <com.flywheelms.library.fms.widget.text_view.CustomerWidgetTextView
+    <com.flywheelms.fms_library.fms.widget.text_view.CustomerWidgetTextView
         android:id="@+id/customer"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         gcg:labelWidth="80" />
 
-    <com.flywheelms.library.fms.widget.text_view.FacilitatorWidgetTextView
+    <com.flywheelms.fms_library.fms.widget.text_view.FacilitatorWidgetTextView
         android:id="@+id/facilitator"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

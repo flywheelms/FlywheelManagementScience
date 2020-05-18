@@ -27,7 +27,7 @@
             gcg:borderStyle="3"
             gcg:headingText="Estimate">
 
-            <com.flywheelms.library.fms.widget.edit_integer.TaskPointsWidgetEditInteger
+            <com.flywheelms.fms_library.fms.widget.edit_integer.TaskPointsWidgetEditInteger
                 android:id="@+id/estimate__task_points"
                 android:layout_width="315dp"
                 android:layout_height="wrap_content"
@@ -35,7 +35,7 @@
                 gcg:labelWidth="225"
                 gcg:fdkCursorEnabled="true" />
 
-            <com.flywheelms.library.fms.widget.edit_float.AverageHoursPerTaskPointWidgetEditFloat
+            <com.flywheelms.fms_library.fms.widget.edit_float.AverageHoursPerTaskPointWidgetEditFloat
                 android:id="@+id/estimate__average_hours_per_task_point"
                 android:layout_width="315dp"
                 android:layout_height="wrap_content"
@@ -43,7 +43,7 @@
                 gcg:labelWidth="225"
                 gcg:fdkCursorEnabled="true" />
 
-            <com.flywheelms.library.fms.widget.text_view.ByCommunityMemberWidgetTextView
+            <com.flywheelms.fms_library.fms.widget.text_view.ByCommunityMemberWidgetTextView
                 android:id="@+id/estimate__by_community_member"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -51,7 +51,7 @@
                 gcg:labelWidth="225"
                 gcg:fdkCursorEnabled="false" />
 
-            <com.flywheelms.library.fms.widget.text_view.TimestampWidgetTextView
+            <com.flywheelms.fms_library.fms.widget.text_view.TimestampWidgetTextView
                 android:id="@+id/estimate__timestamp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -59,7 +59,7 @@
                 gcg:labelWidth="225"
                 gcg:fdkCursorEnabled="false" />
 
-            <com.flywheelms.library.fms.widget.spinner.FmmDataQualityWidgetSpinner
+            <com.flywheelms.fms_library.fms.widget.spinner.FmmDataQualityWidgetSpinner
                 android:id="@+id/estimate__data_quality"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -113,7 +113,7 @@
             gcg:borderStyle="3"
             gcg:headingText="Budget">
 
-            <com.flywheelms.library.fms.widget.edit_integer.TaskPointsWidgetEditInteger
+            <com.flywheelms.fms_library.fms.widget.edit_integer.TaskPointsWidgetEditInteger
                 android:id="@+id/budget__task_points"
                 android:layout_width="315dp"
                 android:layout_height="wrap_content"
@@ -121,7 +121,7 @@
                 gcg:labelWidth="225"
                 gcg:fdkCursorEnabled="true" />
 
-            <com.flywheelms.library.fms.widget.edit_float.AverageHoursPerTaskPointWidgetEditFloat
+            <com.flywheelms.fms_library.fms.widget.edit_float.AverageHoursPerTaskPointWidgetEditFloat
                 android:id="@+id/budget__average_hours_per_task_point"
                 android:layout_width="315dp"
                 android:layout_height="wrap_content"
@@ -129,7 +129,7 @@
                 gcg:labelWidth="225"
                 gcg:fdkCursorEnabled="true" />
 
-            <com.flywheelms.library.fms.widget.text_view.ByCommunityMemberWidgetTextView
+            <com.flywheelms.fms_library.fms.widget.text_view.ByCommunityMemberWidgetTextView
                 android:id="@+id/budget__by_community_member"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -137,7 +137,7 @@
                 gcg:labelWidth="225"
                 gcg:fdkCursorEnabled="true" />
 
-            <com.flywheelms.library.fms.widget.text_view.TimestampWidgetTextView
+            <com.flywheelms.fms_library.fms.widget.text_view.TimestampWidgetTextView
                 android:id="@+id/budget__timestamp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -145,7 +145,7 @@
                 gcg:labelWidth="225"
                 gcg:fdkCursorEnabled="true" />
 
-            <com.flywheelms.library.fms.widget.spinner.FmmDataQualityWidgetSpinner
+            <com.flywheelms.fms_library.fms.widget.spinner.FmmDataQualityWidgetSpinner
                 android:id="@+id/budget__data_quality"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

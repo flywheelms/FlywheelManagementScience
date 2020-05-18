@@ -21,7 +21,7 @@
         android:textSize="22sp"
         android:text="@string/fse__document_section__story" />
     
-    <com.flywheelms.library.fms.widget.text_view.FseStoryWidget
+    <com.flywheelms.fms_library.fms.widget.text_view.FseStoryWidget
         android:id="@+id/story"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

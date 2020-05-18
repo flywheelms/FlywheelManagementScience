@@ -109,7 +109,7 @@
             android:gravity="right"
             android:orientation="vertical" >
 
-            <com.flywheelms.library.fms.widget.spinner.FmmTemplateWidgetSpinner
+            <com.flywheelms.fms_library.fms.widget.spinner.FmmTemplateWidgetSpinner
                 android:id="@+id/fmm_repository__spinner"
                 android:layout_width="410dp"
                 android:layout_height="wrap_content"

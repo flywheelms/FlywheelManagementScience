@@ -45,7 +45,7 @@
             android:layout_height="wrap_content" />
     </RadioGroup>
 
-    <com.flywheelms.library.fms.widget.spinner.FiscalYearWidgetSpinner
+    <com.flywheelms.fms_library.fms.widget.spinner.FiscalYearWidgetSpinner
         android:id="@+id/disposition_target__parent__spinner"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -54,7 +54,7 @@
         gcg:zoomable="true"
         gcg:deferDataInitialization="true" />
     
-    <com.flywheelms.library.fms.widget.spinner.StrategicMilestoneWidgetSpinner
+    <com.flywheelms.fms_library.fms.widget.spinner.StrategicMilestoneWidgetSpinner
         android:id="@+id/disposition_target__spinner"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -63,7 +63,7 @@
         gcg:zoomable="true"
         gcg:deferDataInitialization="true" />
 
-    <com.flywheelms.library.fms.widget.spinner.SequencePositionWidgetSpinner
+    <com.flywheelms.fms_library.fms.widget.spinner.SequencePositionWidgetSpinner
         android:id="@+id/list_position__spinner"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

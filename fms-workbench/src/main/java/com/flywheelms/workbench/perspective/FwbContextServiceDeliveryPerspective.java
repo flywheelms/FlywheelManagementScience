@@ -54,9 +54,9 @@ import com.flywheelms.gcongui.gcg.interfaces.GcgPerspective;
 import com.flywheelms.gcongui.gcg.treeview.GcgTreeViewAdapter;
 import com.flywheelms.gcongui.gcg.treeview.GcgTreeViewMediator;
 import com.flywheelms.fms_library.R;
-import com.flywheelms.library.fmm.context.FmmPerspective;
-import com.flywheelms.library.fms.helper.FmsHelpIndex;
-import com.flywheelms.library.fms.tree_view_flipper.tree_view.FmsPerspectiveFlipperTreeView;
+import com.flywheelms.fms_library.fmm.context.FmmPerspective;
+import com.flywheelms.fms_library.fms.helper.FmsHelpIndex;
+import com.flywheelms.fms_library.fms.tree_view_flipper.tree_view.FmsPerspectiveFlipperTreeView;
 
 public class FwbContextServiceDeliveryPerspective extends FmsPerspectiveFlipperTreeView {
 	

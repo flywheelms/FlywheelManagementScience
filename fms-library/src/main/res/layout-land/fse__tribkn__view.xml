@@ -60,7 +60,7 @@
 		</LinearLayout>
 
         <!-- inflates fms__node_frag_governance__view -->
-        <com.flywheelms.library.fms.view.FmsGovernanceView
+        <com.flywheelms.fms_library.fms.view.FmsGovernanceView
             android:id="@+id/fms__governance__view"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

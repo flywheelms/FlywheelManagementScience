@@ -14,14 +14,14 @@
         android:orientation="vertical"
         android:background="@color/gcg__dialog__background" >
 
-        <com.flywheelms.library.fms.widget.text_view.FmmNodeTypeWidgetTextView
+        <com.flywheelms.fms_library.fms.widget.text_view.FmmNodeTypeWidgetTextView
             android:id="@+id/fmm_node__type"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="15dp"
             gcg:labelWidth="150" />
 
-        <com.flywheelms.library.fms.widget.spinner.FiscalYearForCreateWidgetSpinner
+        <com.flywheelms.fms_library.fms.widget.spinner.FiscalYearForCreateWidgetSpinner
             android:id="@+id/fiscal_year"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

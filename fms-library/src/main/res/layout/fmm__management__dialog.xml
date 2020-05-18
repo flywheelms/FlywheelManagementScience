@@ -32,7 +32,7 @@
             android:layout_below="@id/dialog__explanation"
             android:background="@color/gcg__dialog_info__border" />
 
-        <com.flywheelms.library.fms.widget.spinner.FmmAccessScopeWidgetSpinner
+        <com.flywheelms.fms_library.fms.widget.spinner.FmmAccessScopeWidgetSpinner
             android:id="@+id/fmm_repository__scope__spinner"
             android:layout_width="600dp"
             android:layout_height="wrap_content"
@@ -41,7 +41,7 @@
             android:layout_below="@id/dialog__explanation_border"
             gcg:labelWidth="215" />
 
-        <com.flywheelms.library.fms.widget.list_view.FmmConfigurationWidgetListView
+        <com.flywheelms.fms_library.fms.widget.list_view.FmmConfigurationWidgetListView
             android:id="@+id/fmm_repository__list"
             android:layout_width="match_parent"
             android:layout_height="190dp"

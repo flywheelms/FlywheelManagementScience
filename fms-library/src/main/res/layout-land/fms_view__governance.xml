@@ -14,7 +14,7 @@
         android:layout_height="0dp"
         android:layout_weight=".5" >
 
-        <com.flywheelms.library.fms.component.FmsGovernanceComponent
+        <com.flywheelms.fms_library.fms.component.FmsGovernanceComponent
             android:id="@+id/governance_component__facilitator"
             android:layout_width="400dp"
             android:layout_height="200dp"
@@ -27,7 +27,7 @@
             gcg:thumbPad="left"
             gcg:governanceRole="Facilitator" />
 
-        <com.flywheelms.library.fms.component.FmsGovernanceComponent
+        <com.flywheelms.fms_library.fms.component.FmsGovernanceComponent
             android:id="@+id/governance_component__customer"
             android:layout_width="400dp"
             android:layout_height="200dp"
@@ -46,7 +46,7 @@
         android:layout_height="0dp"
         android:layout_weight=".5" >
 
-        <com.flywheelms.library.fms.component.FmsGovernanceComponent
+        <com.flywheelms.fms_library.fms.component.FmsGovernanceComponent
             android:id="@+id/governance_component__sponsor"
             android:layout_width="400dp"
             android:layout_height="200dp"
@@ -59,7 +59,7 @@
             gcg:thumbPad="left"
             gcg:governanceRole="Sponsor" />
 
-        <com.flywheelms.library.fms.component.FmsGovernanceComponent
+        <com.flywheelms.fms_library.fms.component.FmsGovernanceComponent
             android:id="@+id/governance_component__administrator"
             android:layout_width="400dp"
             android:layout_height="200dp"

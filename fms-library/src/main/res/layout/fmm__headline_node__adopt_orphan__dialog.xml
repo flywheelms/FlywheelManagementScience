@@ -48,13 +48,13 @@
             gcg:headingText="For Parent"
             gcg:headingGravity="left" >
 
-            <com.flywheelms.library.fms.widget.text_view.FmmNodeTypeWidgetTextView
+            <com.flywheelms.fms_library.fms.widget.text_view.FmmNodeTypeWidgetTextView
                 android:id="@+id/fmm_node__type__parent_node"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="15dp" />
 
-            <com.flywheelms.library.fms.widget.text_view.HeadlineWidgetTextView
+            <com.flywheelms.fms_library.fms.widget.text_view.HeadlineWidgetTextView
                 android:id="@+id/headline__parent_node"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -94,7 +94,7 @@
                     android:checked="true" />
             </RadioGroup>
 
-            <com.flywheelms.library.fms.widget.text_view.HeadlineWidgetTextView
+            <com.flywheelms.fms_library.fms.widget.text_view.HeadlineWidgetTextView
                 android:id="@+id/headline__launch_node"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

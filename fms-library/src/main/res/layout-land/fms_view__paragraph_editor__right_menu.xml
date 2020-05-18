@@ -59,7 +59,7 @@
                             android:layout_height="match_parent"
                             android:gravity="center_horizontal" >
 
-                            <com.flywheelms.library.fse.widget.FseParagraphStyleIndentButton
+                            <com.flywheelms.fms_library.fse.widget.FseParagraphStyleIndentButton
                                 android:id="@+id/style_indent_button"
                                 android:layout_width="70dp"
                                 android:layout_height="50dp"
@@ -67,21 +67,21 @@
                                 android:layout_marginBottom="24dp"
                                 android:layout_marginTop="15dp" />
 
-                            <com.flywheelms.library.fse.widget.FseParagraphStyleOutdentButton
+                            <com.flywheelms.fms_library.fse.widget.FseParagraphStyleOutdentButton
                                 android:id="@+id/style_outdent_button"
                                 android:layout_width="70dp"
                                 android:layout_height="50dp"
                                 android:layout_below="@id/style_indent_button"
                                 android:layout_marginBottom="24dp" />
 
-                            <com.flywheelms.library.fse.widget.FseParagraphStylePromoteButton
+                            <com.flywheelms.fms_library.fse.widget.FseParagraphStylePromoteButton
                                 android:id="@+id/style_promote_button"
                                 android:layout_width="70dp"
                                 android:layout_height="50dp"
                                 android:layout_below="@id/style_outdent_button"
                                 android:layout_marginBottom="24dp" />
 
-                            <com.flywheelms.library.fse.widget.FseParagraphStyleDemoteButton
+                            <com.flywheelms.fms_library.fse.widget.FseParagraphStyleDemoteButton
                                 android:id="@+id/style_demote_button"
                                 android:layout_width="70dp"
                                 android:layout_height="50dp"
@@ -96,7 +96,7 @@
                             android:orientation="horizontal"
                             android:visibility="invisible" >
 
-                            <com.flywheelms.library.fse.widget.FseParagraphSequenceUpButton
+                            <com.flywheelms.fms_library.fse.widget.FseParagraphSequenceUpButton
                                 android:id="@+id/sequence_up_button"
                                 android:layout_width="80dp"
                                 android:layout_height="50dp"
@@ -104,7 +104,7 @@
                                 android:layout_marginBottom="40dp"
                                 android:layout_marginTop="20dp" />
 
-                            <com.flywheelms.library.fse.widget.FseParagraphSequenceDownButton
+                            <com.flywheelms.fms_library.fse.widget.FseParagraphSequenceDownButton
                                 android:id="@+id/sequence_down_button"
                                 android:layout_width="80dp"
                                 android:layout_height="50dp"
@@ -206,7 +206,7 @@
                             android:orientation="horizontal"
                             android:visibility="invisible" >
 
-                            <com.flywheelms.library.fse.widget.FseParagraphLockButton
+                            <com.flywheelms.fms_library.fse.widget.FseParagraphLockButton
                                 android:id="@+id/lock__lock__button"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
@@ -216,7 +216,7 @@
                                 android:background="@color/pdf__transparent"
                                 android:padding="@dimen/fse__padding__medium" />
 
-                            <com.flywheelms.library.fse.widget.FseParagraphUnlockButton
+                            <com.flywheelms.fms_library.fse.widget.FseParagraphUnlockButton
                                 android:id="@+id/lock__unlock__button"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
@@ -236,7 +236,7 @@
                         </RelativeLayout>
                     </FrameLayout>
 
-                    <com.flywheelms.library.fse.widget.FseMultiShiftButton
+                    <com.flywheelms.fms_library.fse.widget.FseMultiShiftButton
                         android:id="@+id/multi_shift__right_button"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"

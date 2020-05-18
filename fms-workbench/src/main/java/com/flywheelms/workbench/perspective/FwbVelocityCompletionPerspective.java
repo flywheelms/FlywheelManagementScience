@@ -48,8 +48,8 @@ import android.util.AttributeSet;
 
 import com.flywheelms.fms_workbench.R;
 import com.flywheelms.gcongui.gcg.interfaces.GcgPerspective;
-import com.flywheelms.library.fmm.context.FmmPerspective;
-import com.flywheelms.library.fms.helper.FmsHelpIndex;
+import com.flywheelms.fms_library.fmm.context.FmmPerspective;
+import com.flywheelms.fms_library.fms.helper.FmsHelpIndex;
 
 public class FwbVelocityCompletionPerspective extends FwbNotImplementedPerspective {
 	

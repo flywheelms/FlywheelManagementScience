@@ -26,7 +26,7 @@
             android:enabled="false"
             android:text="@string/create__fmm_repository__organization__retain_headline" />
 
-        <com.flywheelms.library.fms.widget.edit_text.OrganizationHeadlineWidgetEditText
+        <com.flywheelms.fms_library.fms.widget.edit_text.OrganizationHeadlineWidgetEditText
             android:id="@+id/headline"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

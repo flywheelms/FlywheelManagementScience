@@ -46,29 +46,29 @@
     android:layout_height="match_parent"
     android:orientation="vertical" >
     
-    <com.flywheelms.library.fms.wizard.CreateAllCadenceForYearWizardStepFlipper
+    <com.flywheelms.fms_library.fms.wizard.CreateAllCadenceForYearWizardStepFlipper
         android:id="@+id/gcg__wizard__step_flipper"
         android:layout_width="match_parent"
         android:layout_height="match_parent" >
 
         <!-- page 1 -->
-        <com.flywheelms.library.fms.wizard.step.CreateAllCadenceParametersWizardStepView
+        <com.flywheelms.fms_library.fms.wizard.step.CreateAllCadenceParametersWizardStepView
             android:id="@+id/wizard_step__cadence_parameters"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
 
         <!-- page 3 -->
-        <com.flywheelms.library.fms.wizard.step.CreateAllCadenceDoItNowWizardStepView
+        <com.flywheelms.fms_library.fms.wizard.step.CreateAllCadenceDoItNowWizardStepView
             android:id="@+id/wizard_step__do_it_now"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
 
         <!-- page 2 -->
-        <com.flywheelms.library.fms.wizard.step.CreateAllCadenceHolidaysWizardStepView
+        <com.flywheelms.fms_library.fms.wizard.step.CreateAllCadenceHolidaysWizardStepView
             android:id="@+id/wizard_step__cadence_holidays"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
         
-    </com.flywheelms.library.fms.wizard.CreateAllCadenceForYearWizardStepFlipper>
+    </com.flywheelms.fms_library.fms.wizard.CreateAllCadenceForYearWizardStepFlipper>
 
 </LinearLayout>

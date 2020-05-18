@@ -9,7 +9,7 @@
         android:id="@+id/gcg_view_flipper__title_bar__include"
         layout="@layout/gcg__view_flipper__title_bar" />
     
-    <com.flywheelms.library.fms.component.FmsDecKanGlNavigationComponent
+    <com.flywheelms.fms_library.fms.component.FmsDecKanGlNavigationComponent
         android:id="@+id/deckangl__navigation_widget"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />

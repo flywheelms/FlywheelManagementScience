@@ -106,7 +106,7 @@
             android:fadeScrollbars="false"
             tools:ignore="UselessParent" >
 
-            <com.flywheelms.library.fse.views.FseParagraphEditor
+            <com.flywheelms.fms_library.fse.views.FseParagraphEditor
                 android:id="@+id/fse__paragraph_editor"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

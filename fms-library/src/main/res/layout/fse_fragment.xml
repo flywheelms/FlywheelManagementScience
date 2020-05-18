@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:background="@color/gcg__portobello">
 
-            <com.flywheelms.library.fse.perspective_flipper.FsePerspectiveFlipper
+            <com.flywheelms.fms_library.fse.perspective_flipper.FsePerspectiveFlipper
                 android:id="@+id/fse__document_view"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

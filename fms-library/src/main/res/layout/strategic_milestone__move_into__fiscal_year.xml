@@ -19,7 +19,7 @@
         gcg:borderStyle="3"
         gcg:headingText="Destination" >
 
-        <com.flywheelms.library.fms.widget.spinner.FiscalYearWidgetSpinner
+        <com.flywheelms.fms_library.fms.widget.spinner.FiscalYearWidgetSpinner
             android:id="@+id/disposition_target__spinner"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -27,7 +27,7 @@
             gcg:filterId="@string/filter_id__primary_parent__primary_child__move_target"
             gcg:zoomable="true" />
 
-        <com.flywheelms.library.fms.widget.spinner.SequencePositionWidgetSpinner
+        <com.flywheelms.fms_library.fms.widget.spinner.SequencePositionWidgetSpinner
             android:id="@+id/list_position__spinner"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

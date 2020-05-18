@@ -6,7 +6,7 @@
     android:gravity="center_horizontal"
     android:orientation="vertical">
 
-    <com.flywheelms.library.fms.widget.text_view.HeadlineWidgetTextView
+    <com.flywheelms.fms_library.fms.widget.text_view.HeadlineWidgetTextView
         android:id="@+id/headline_widget"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -14,7 +14,7 @@
         gcg:onClick="disabled"
         gcg:onLongClick="disabled" />
     
-    <com.flywheelms.library.fms.component.FmsDecKanGlNavigationComponent
+    <com.flywheelms.fms_library.fms.component.FmsDecKanGlNavigationComponent
         android:id="@+id/deckangl__navigation_widget"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
