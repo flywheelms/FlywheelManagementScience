@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/gcg__dialog__background"
+    android:orientation="vertical">
+
+    <com.flywheelms.gcongui.gcg.container.GcgContainerTabbedLayout
+        android:id="@+id/tabbed_layout"
+        android:layout_width="match_parent"
+        android:layout_height="330dp" >
+
+    </com.flywheelms.gcongui.gcg.container.GcgContainerTabbedLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:gravity="center_horizontal"
+        android:text="@string/fmm_node_definition__imprecise_language"
+        android:textColor="@color/x11__Gray"
+        android:textStyle="bold|italic"
+        android:textSize="20sp"/>
+
+    <include layout="@layout/gcg__button_panel__cancel" />
+
+</LinearLayout>

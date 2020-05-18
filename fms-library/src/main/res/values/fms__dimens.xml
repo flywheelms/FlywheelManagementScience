@@ -1,0 +1,19 @@
+<resources>
+
+    <dimen name="audit_block_view__height">275dp</dimen>
+    <dimen name="audit_block_view__width">350dp</dimen>
+    
+    <dimen name="timestamp__width">110dp</dimen>
+    <dimen name="timestamp__width_compressed">105dp</dimen>
+    <dimen name="community_member__width">157dp</dimen>
+    <dimen name="community_member__width_compressed">140dp</dimen>
+    
+    <dimen name="governance__community_member__width">135dp</dimen>
+    <dimen name="governance__commitment__width">80dp</dimen>
+    <dimen name="governance__role__width">80dp</dimen>
+    <dimen name="governance__lock_status__width">70dp</dimen>
+    <dimen name="governance__timestamp__width">108dp</dimen>
+    
+    <dimen name="fms_headline__width">614dp</dimen>
+
+</resources>

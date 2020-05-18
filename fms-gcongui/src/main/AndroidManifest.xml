@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.flywheelms.gcongui">
+
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+
+</manifest>

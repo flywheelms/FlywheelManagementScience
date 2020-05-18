@@ -1,0 +1,5 @@
+rootProject.name='FlywheelManagementScience'
+include ':fms-dashboard'
+include ':fms-gcongui'
+include ':fms-library'
+include ':fms-workbench'

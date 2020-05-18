@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:gcg="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gcg__dialog__background"
+    android:orientation="vertical">
+
+    <com.flywheelms.gcongui.gcg.widget.GcgWidgetTextViewSummaryBox
+        android:id="@+id/keyboard_shortcuts"
+        android:layout_width="match_parent"
+        android:layout_height="285dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="15dp"
+        gcg:labelText="@string/gcg__quick_summary" />
+
+    <com.flywheelms.gcongui.gcg.widget.GcgWidgetWebLink
+        android:id="@+id/keyboard_recommendation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:gravity="center_horizontal"
+        gcg:labelText="@string/gcg__recommendation_keyboard"
+        gcg:uri="@string/gcg__recommendation_keyboard__uri"/>
+
+</LinearLayout>
